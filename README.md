@@ -1,2 +1,2 @@
 # SSNS-Sungil-Social-Network-Service-
-# 성일정보고 SNS
+# 클론코딩
